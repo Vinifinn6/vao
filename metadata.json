@@ -1,0 +1,7 @@
+{
+  "name": "VAO - Jornal Digital",
+  "description": "Uma plataforma de jornalismo pessoal moderna e sofisticada para publicação de matérias com edição rica, suporte a imagens e design responsivo.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
